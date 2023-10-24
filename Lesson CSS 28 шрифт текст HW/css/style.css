@@ -1,0 +1,30 @@
+.class {
+  font-family: "Playpen Sans" sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  font-style: italic;
+}
+.block {
+  font-family: "Oswald", sans-serif;
+  text-decoration: line-through;
+}
+.text {
+  font-family: "Playpen Sans" sans-serif;
+  font-size: 20px;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
+.title {
+  font-family: "Times New Roman", Times, serif;
+  word-spacing: 30px;
+  color: blue;
+  text-decoration-line: overline;
+  text-decoration-style: wavy;
+}
+.end {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 5px;
+  text-decoration: overline;
+  text-decoration-style: double;
+}
